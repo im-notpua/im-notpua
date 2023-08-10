@@ -1,1 +1,3 @@
-[![gitlab](gitlab.png)](https://gitlab.com/imnotpua/)
+# CHECK OUT MY REPOS ON GITLAB
+
+[![gitlab](gitlab.svg)](https://gitlab.com/imnotpua/)
